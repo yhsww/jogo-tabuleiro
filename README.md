@@ -1,8 +1,5 @@
 # Jogo de Tabuleiro
 
-
-Projeto desenvolvido em Java com JavaFX, que implementa um jogo de tabuleiro com múltiplos jogadores, casas especiais e eventos que influenciam o andamento da partida.
-
 O jogo possui uma interface gráfica para cadastro de jogadores, visualização do tabuleiro, movimentação dos participantes e acompanhamento das rodadas até a definição do vencedor.
 
 ## Tecnologias utilizadas
