@@ -55,8 +55,8 @@ O tabuleiro possui diferentes tipos de casas, cada uma com um efeito específico
 ## Como executar o jogo
 
 ```bash
-git clone https://github.com/yhsww/tabuleiro.git
-cd tabuleiro
+git clone https://github.com/yhsww/jogo-tabuleiro.git
+cd jogo-tabuleiro
 ```
 
 Na pasta que contém o `pom.xml`, execute:
